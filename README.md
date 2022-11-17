@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 
 - 👋 Hola, soy @gabobregon89 pero las personas me llaman GABO.
-- 👀 Estoy interesado en crecer en este largo camino de la programación, participano en projectos con conciencia social y disfrutando de la vida en el proceso.
+- 👀 Estoy interesado en crecer en este largo camino de la programación, participando en projectos con conciencia social y disfrutando de la vida en el proceso.
 - 🌱 Actualmente estoy aprendiendo todo acerca de ciencia de datos, Python por ejemplo y sus diferentes librerias, SQL por supuesto, herramientas de visualización de datos y su manejo.
 - 💞️ Estoy buscando colaborar en projectos que generen valor agregado y si puedo ayudar a las personas con eso, increible.
 - 📫 Para contactarte conmigo, enviame un email a gab.obregon89@gmail.com y con gusto hablaremos.
